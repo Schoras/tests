@@ -26,7 +26,6 @@ function getComments($postId)
     return $comments;
 }
 
-// Nouvelle fonction qui nous permet d'éviter de répéter du code
 function dbConnect()
 {
     try
