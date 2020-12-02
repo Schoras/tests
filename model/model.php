@@ -26,6 +26,15 @@ function getComments($postId)
     return $comments;
 }
 
+function postComments($postId, $author, $comment)
+{
+    $db = dbConnect();
+    $comments = $db->prepare('INSERT INTO commentaires(post_id, author, comment, comment_date) VALUES (?,?,?, NOW())');
+    $affectedLines = $comments -> execute(array($postId, $author, $comment));
+
+    return $affectedLines;
+}
+
 function dbConnect()
 {
     try
