@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbe1978c-aef5-47a1-851a-89f98d95ef34" name="Default Changelist" comment="" />
+    <list default="true" id="dbe1978c-aef5-47a1-851a-89f98d95ef34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/model/CommentManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/frontend.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/frontend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexView.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listPostsView.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/frontend.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/PostManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postView.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +40,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l4EapvBYOkZuMBlqi5sr2mqmrE" />
   <component name="ProjectViewState">
@@ -18,8 +52,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\blog2\view\frontend" />
+      <recent name="C:\wamp64\www\blog2\view" />
+      <recent name="C:\wamp64\www\blog2\model" />
+      <recent name="C:\wamp64\www\blog2\controller" />
+      <recent name="C:\wamp64\www\blog2\public\css" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -35,18 +79,42 @@
       <option name="presentableId" value="Default" />
       <updated>1606848030312</updated>
       <workItem from="1606848031399" duration="3760000" />
-      <workItem from="1606898676121" duration="9928000" />
+      <workItem from="1606898676121" duration="17277000" />
+      <workItem from="1607006147089" duration="2280000" />
+      <workItem from="1610364199190" duration="762000" />
+      <workItem from="1610376893469" duration="1055000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1140" y="436" key="NewPhpFileDialog" timestamp="1606910368016">
+    <state x="650" y="264" key="FileChooserDialogImpl" timestamp="1607006846914">
       <screen x="0" y="39" width="1739" height="939" />
     </state>
+    <state x="650" y="264" key="FileChooserDialogImpl/0.39.1739.939/1920.39.1739.939@0.39.1739.939" timestamp="1607006846914" />
+    <state x="1140" y="436" key="NewPhpFileDialog" timestamp="1606927112694">
+      <screen x="0" y="39" width="1739" height="939" />
+    </state>
+    <state x="1140" y="436" key="NewPhpFileDialog/0.39.1739.939/1920.39.1739.939@0.39.1739.939" timestamp="1606927112694" />
     <state x="1140" y="436" key="NewPhpFileDialog/0.39.1739.939@0.39.1739.939" timestamp="1606910368016" />
+    <state x="720" y="423" key="VCS.ChangelistChooser" timestamp="1607006855807">
+      <screen x="0" y="39" width="1739" height="939" />
+    </state>
+    <state x="720" y="423" key="VCS.ChangelistChooser/0.39.1739.939/1920.39.1739.939@0.39.1739.939" timestamp="1607006855807" />
     <state x="953" y="237" width="672" height="677" key="run.anything.popup" timestamp="1606906452693">
       <screen x="0" y="39" width="1739" height="939" />
     </state>
